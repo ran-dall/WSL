@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
+        "1Password-SSH-Relay",
         "Powershell"
     ]
 }
